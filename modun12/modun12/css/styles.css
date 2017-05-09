@@ -1,0 +1,27 @@
+.stype-11 .produt1 {
+  font-size: 26px;
+}
+.stype-11 .produt1 .produt2 {
+  font-size: 15px;
+  display: inline-block;
+  margin-top: 7px;
+  padding-bottom: 12px;
+  font-weight: bold;
+}
+.stype-11 .produt1 .duongvien {
+  border-top: 3px solid #e24545;
+  width: 15%;
+}
+.stype-11 .tang a {
+  font-size: 11px !important;
+  display: inline-block;
+  color: #333 !important;
+  border: 1px solid #eeeeee;
+  padding: 12px;
+  margin: 0 0 4px 0;
+  font-weight: normal;
+  text-transform: uppercase !important;
+}
+.stype-11 .tang a:hover {
+  background: #e24545;
+}
